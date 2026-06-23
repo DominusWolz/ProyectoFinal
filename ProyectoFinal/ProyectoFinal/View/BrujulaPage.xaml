@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.View.BrujulaPage"
+             Title="Brújula"
+             BackgroundColor="#0F172A">
+
+    <Grid>
+
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="35">
+
+            <Label Text="Apunta hacia el Norte" 
+                   FontSize="22" 
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            <Label x:Name="lblGrados" 
+                   Text="0°" 
+                   FontSize="56" 
+                   FontAttributes="Bold" 
+                   TextColor="#38BDF8" 
+                   HorizontalOptions="Center"/>
+
+            <Grid WidthRequest="300" HeightRequest="300" HorizontalOptions="Center">
+                <Ellipse Fill="#1F2937" Stroke="#334155" StrokeThickness="10" />
+
+                <Label Text="N" TextColor="#EF4444" FontSize="26" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,15,0,0"/>
+                <Label Text="S" TextColor="#94A3B8" FontSize="22" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="End" Margin="0,0,0,15"/>
+                <Label Text="E" TextColor="#94A3B8" FontSize="22" FontAttributes="Bold" HorizontalOptions="End" VerticalOptions="Center" Margin="0,0,15,0"/>
+                <Label Text="O" TextColor="#94A3B8" FontSize="22" FontAttributes="Bold" HorizontalOptions="Start" VerticalOptions="Center" Margin="15,0,0,0"/>
+
+                <Grid x:Name="ContenedorAguja" HorizontalOptions="Center" VerticalOptions="Center">
+                    <VerticalStackLayout Spacing="0">
+                        <Polygon Points="20,0 40,100 0,100" Fill="#EF4444" HeightRequest="100" WidthRequest="40" />
+                        <Polygon Points="0,0 40,0 20,100" Fill="#E2E8F0" HeightRequest="100" WidthRequest="40" />
+                    </VerticalStackLayout>
+                    <Ellipse WidthRequest="20" HeightRequest="20" Fill="#38BDF8" HorizontalOptions="Center" VerticalOptions="Center" />
+                </Grid>
+            </Grid>
+
+            <Label Text="Mueve tu teléfono en forma de '8' para calibrar" 
+                   FontSize="14" 
+                   TextColor="#94A3B8"
+                   HorizontalOptions="Center" />
+
+            <Button Text="Volver al Inicio" 
+                    Clicked="OnVolverClicked"
+                    Margin="0, 10, 0, 0"
+                    BackgroundColor="Transparent"
+                    TextColor="#38BDF8"
+                    BorderColor="#38BDF8"
+                    BorderWidth="1"
+                    CornerRadius="20"
+                    HeightRequest="45"
+                    WidthRequest="200"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"/>
+        </VerticalStackLayout>
+
+        <Border WidthRequest="70" 
+                HeightRequest="70" 
+                HorizontalOptions="End" 
+                VerticalOptions="Start" 
+                Margin="20"
+                Stroke="#334155"
+                StrokeThickness="2">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="35" />
+            </Border.StrokeShape>
+            <Image Source="logolobo.png" Aspect="AspectFill" />
+        </Border>
+
+    </Grid>
+</ContentPage>

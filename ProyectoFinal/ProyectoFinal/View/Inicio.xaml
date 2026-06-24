@@ -96,6 +96,7 @@
                         WidthRequest="250"
                         FontAttributes="Bold"
                         HorizontalOptions="Center"/>
+                
                 <Button Text="📍 Escribir una dirección" 
                 Clicked="OnAbrirBuscadorClicked"
                 Margin="0, 15, 0, 0"
@@ -109,7 +110,7 @@
                 FontAttributes="Bold"
                 HorizontalOptions="Center"/>
 
-                <Label Text="Versión 1.0 - Proyecto educativo" 
+                <Label Text="Versión 5.0 Final - Proyecto educativo" 
                        FontSize="12" 
                        TextColor="#4B5563"
                        HorizontalOptions="Center" 

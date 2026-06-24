@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\proyectofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\proyectofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\buscadorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\buscadorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\buscadorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\buscadorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\proyectofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\proyectofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\buscadorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\buscadorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProyectoFinal",
+              "DocumentIndex": 2,
+              "Title": "ProyectoFinal.csproj",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
               "RelativeDocumentMoniker": "ProyectoFinal\\ProyectoFinal.csproj",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
               "RelativeToolTip": "ProyectoFinal\\ProyectoFinal.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-24T17:57:46.452Z",
               "EditorCaption": ""
@@ -89,22 +89,9 @@
               "RelativeDocumentMoniker": "ProyectoFinal\\View\\BuscadorPage.xaml",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BuscadorPage.xaml",
               "RelativeToolTip": "ProyectoFinal\\View\\BuscadorPage.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vx4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-24T17:46:06.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:28:59.49Z",
               "EditorCaption": ""
             },
             {
@@ -121,6 +108,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscadorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BuscadorPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BuscadorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BuscadorPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinal\\View\\BuscadorPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:46:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "ProyectoFinal\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:28:59.49Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "RadarPage.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\RadarPage.xaml",
@@ -133,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\AppShell.xaml.cs",
@@ -141,12 +153,11 @@
               "RelativeToolTip": "ProyectoFinal\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:16:54.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T16:16:54.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Inicio.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\View\\Inicio.xaml.cs",
@@ -154,25 +165,11 @@
               "RelativeToolTip": "ProyectoFinal\\View\\Inicio.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:15:32.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T16:15:32.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BuscadorPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BuscadorPage.xaml.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BuscadorPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BuscadorPage.xaml.cs",
-              "RelativeToolTip": "ProyectoFinal\\View\\BuscadorPage.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:46:25.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml",
               "RelativeDocumentMoniker": "ProyectoFinal\\AppShell.xaml",
@@ -180,12 +177,11 @@
               "RelativeToolTip": "ProyectoFinal\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T16:16:42.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T16:16:42.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Inicio.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml",
               "RelativeDocumentMoniker": "ProyectoFinal\\View\\Inicio.xaml",
@@ -193,8 +189,7 @@
               "RelativeToolTip": "ProyectoFinal\\View\\Inicio.xaml",
               "ViewState": "AgIAAFAAAAAAAAAAAAAmwG0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T16:15:21.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T16:15:21.019Z"
             },
             {
               "$type": "Document",
@@ -241,8 +236,7 @@
               "RelativeToolTip": "ProyectoFinal\\View\\BrujulaPage.xaml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T16:16:09.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T16:16:09.086Z"
             }
           ]
         }

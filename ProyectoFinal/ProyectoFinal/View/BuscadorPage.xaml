@@ -31,6 +31,19 @@
                     CornerRadius="20"
                     HeightRequest="60"/>
 
+            <Button Text="Cancelar y Volver" 
+                    Clicked="OnVolverClicked"
+                    Margin="0, 30, 0, 0"
+                    BackgroundColor="Transparent"
+                    TextColor="#94A3B8"
+                    BorderColor="#94A3B8"
+                    BorderWidth="1"
+                    CornerRadius="20"
+                    HeightRequest="45"
+                    WidthRequest="200"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"/>
+
             <ActivityIndicator x:Name="indicadorCarga" 
                                IsRunning="False" 
                                IsVisible="False" 

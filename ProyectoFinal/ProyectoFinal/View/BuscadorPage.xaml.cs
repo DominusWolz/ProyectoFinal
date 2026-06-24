@@ -56,4 +56,9 @@ public partial class BuscadorPage : ContentPage
             indicadorCarga.IsRunning = false;
         }
     }
+    private async void OnVolverClicked(object sender, EventArgs e)
+    {
+        // ".." le dice al Shell que cierre esta página y regrese a la anterior (Inicio)
+        await Shell.Current.GoToAsync("..");
+    }
 }

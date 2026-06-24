@@ -96,6 +96,18 @@
                         WidthRequest="250"
                         FontAttributes="Bold"
                         HorizontalOptions="Center"/>
+                <Button Text="📍 Escribir una dirección" 
+                Clicked="OnAbrirBuscadorClicked"
+                Margin="0, 15, 0, 0"
+                BackgroundColor="Transparent"
+                TextColor="#38BDF8"
+                BorderColor="#38BDF8"
+                BorderWidth="1"
+                CornerRadius="25"
+                HeightRequest="60"
+                WidthRequest="250"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"/>
 
                 <Label Text="Versión 1.0 - Proyecto educativo" 
                        FontSize="12" 

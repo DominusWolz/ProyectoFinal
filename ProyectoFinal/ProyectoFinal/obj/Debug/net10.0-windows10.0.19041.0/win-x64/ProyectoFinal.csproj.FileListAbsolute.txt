@@ -520,8 +520,8 @@ C:\Users\Alumno\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windo
 C:\Users\Alumno\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\logolobo.scale-100.png
 C:\Users\Alumno\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Controls.Maps.dll
 C:\Users\Alumno\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Maps.dll
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AboutAssets.txt
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AboutAssets.txt
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\splashSplashScreen.scale-100.png
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\splashSplashScreen.scale-125.png
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\splashSplashScreen.scale-150.png
@@ -939,6 +939,10 @@ C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\D
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\WinRT.Runtime.dll
+C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Web.WebView2.Core.Projection.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.UI.pri
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.UI.Xaml.Controls.pri
@@ -1043,7 +1047,3 @@ C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\D
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll

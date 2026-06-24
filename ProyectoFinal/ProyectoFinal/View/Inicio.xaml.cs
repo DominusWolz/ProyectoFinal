@@ -38,4 +38,8 @@ public partial class Inicio : ContentPage
 
         await Shell.Current.GoToAsync("RadarPage", parametros);
     }
+    private async void OnAbrirBuscadorClicked(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync("BuscadorPage");
+    }
 }

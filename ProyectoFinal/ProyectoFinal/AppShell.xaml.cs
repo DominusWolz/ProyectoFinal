@@ -9,5 +9,6 @@ public partial class AppShell : Shell
         InitializeComponent();
         Routing.RegisterRoute("BrujulaPage", typeof(View.BrujulaPage));
         Routing.RegisterRoute("RadarPage", typeof(View.RadarPage));
+        Routing.RegisterRoute("BuscadorPage", typeof(View.BuscadorPage));
     }
 }

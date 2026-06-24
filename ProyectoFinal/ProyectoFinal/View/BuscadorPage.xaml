@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.View.BuscadorPage"
+             Title="Buscar Destino"
+             BackgroundColor="#0F172A">
+
+    <Grid>
+        <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center">
+
+            <Label Text="¿Hacia dónde vamos?" 
+                   FontSize="28" 
+                   FontAttributes="Bold"
+                   TextColor="White" 
+                   HorizontalOptions="Center" />
+
+            <Entry x:Name="txtBusqueda" 
+                   Placeholder="Ej: Plaza de Armas, Santiago" 
+                   BackgroundColor="#1F2937" 
+                   TextColor="White"
+                   PlaceholderColor="#94A3B8"
+                   FontSize="18"
+                   ClearButtonVisibility="WhileEditing"
+                   />
+
+            <Button Text="🔍 Buscar y Guiarme" 
+                    Clicked="OnBuscarClicked"
+                    BackgroundColor="#38BDF8"
+                    TextColor="#0F172A"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    HeightRequest="60"/>
+
+            <ActivityIndicator x:Name="indicadorCarga" 
+                               IsRunning="False" 
+                               IsVisible="False" 
+                               Color="#38BDF8"
+                               HorizontalOptions="Center"
+                               Margin="0, 20, 0, 0"/>
+
+        </VerticalStackLayout>
+    </Grid>
+
+</ContentPage>

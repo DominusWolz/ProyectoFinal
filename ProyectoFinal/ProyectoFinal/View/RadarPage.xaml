@@ -7,8 +7,9 @@
 
     <Grid>
         <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20">
-            
-            <Label Text="Distancia al destino" 
+
+            <Label x:Name="lblNombreDestino"
+                   Text="Distancia al destino" 
                    FontSize="18" 
                    TextColor="#94A3B8"
                    HorizontalOptions="Center" />

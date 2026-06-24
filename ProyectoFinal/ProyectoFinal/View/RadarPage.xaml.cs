@@ -1,21 +1,34 @@
 namespace ProyectoFinal.View;
 
+// Estas etiquetas le dicen a la página que esté lista para recibir datos
+[QueryProperty(nameof(Coordenadas), "Coordenadas")]
+[QueryProperty(nameof(NombreLugar), "NombreLugar")]
 public partial class RadarPage : ContentPage
 {
     private IDispatcherTimer timerGPS;
     private double brujulaActual = 0;
     private double rumboAlDestino = 0;
-    
-    // AQUÍ PONES LAS COORDENADAS DE TU DESTINO (Latitud, Longitud)
-    // Ejemplo: Coordenadas genéricas, cámbialas por tu plaza o universidad más cercana
-    private Location ubicacionDestino = new Location(-33.4489, -70.6693); 
+
+    // Variables dinámicas (ya no están fijas)
+    private Location ubicacionDestino;
+    private string nombreLugarDestino;
+
+    // Propiedad que recibe las coordenadas
+    public Location Coordenadas
+    {
+        set { ubicacionDestino = value; }
+    }
+
+    // Propiedad que recibe el nombre
+    public string NombreLugar
+    {
+        set { nombreLugarDestino = value; }
+    }
 
     public RadarPage()
     {
         InitializeComponent();
 
-        // Configuramos un temporizador para consultar el GPS cada 3 segundos
-        // Esto ahorra batería y no satura la interfaz
         timerGPS = Application.Current.Dispatcher.CreateTimer();
         timerGPS.Interval = TimeSpan.FromSeconds(3);
         timerGPS.Tick += async (s, e) => await ActualizarGPS();
@@ -24,8 +37,19 @@ public partial class RadarPage : ContentPage
     protected override async void OnAppearing()
     {
         base.OnAppearing();
-        
-        // 1. Pedir permisos
+
+        // Actualizamos la pantalla con el texto del botón que presionó el usuario
+        if (!string.IsNullOrEmpty(nombreLugarDestino))
+        {
+            lblNombreDestino.Text = $"Distancia hacia {nombreLugarDestino}";
+        }
+
+        // Si hay algún fallo, por seguridad ponemos una coordenada por defecto
+        if (ubicacionDestino == null)
+        {
+            ubicacionDestino = new Location(-33.4489, -70.6693);
+        }
+
         var status = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
         if (status != PermissionStatus.Granted)
         {
@@ -34,9 +58,8 @@ public partial class RadarPage : ContentPage
 
         if (status == PermissionStatus.Granted)
         {
-            // 2. Iniciar sensores
             timerGPS.Start();
-            
+
             if (Compass.Default.IsSupported && !Compass.Default.IsMonitoring)
             {
                 Compass.Default.ReadingChanged += Compass_ReadingChanged;
@@ -53,8 +76,6 @@ public partial class RadarPage : ContentPage
     protected override void OnDisappearing()
     {
         base.OnDisappearing();
-        
-        // Apagar sensores al salir para ahorrar memoria
         timerGPS.Stop();
         if (Compass.Default.IsSupported && Compass.Default.IsMonitoring)
         {
@@ -81,29 +102,25 @@ public partial class RadarPage : ContentPage
 
             if (ubicacionActual != null)
             {
-                // Calcular distancia nativa en MAUI
                 double distanciaMetros = Location.CalculateDistance(ubicacionActual, ubicacionDestino, DistanceUnits.Kilometers) * 1000;
-                
+
                 MainThread.BeginInvokeOnMainThread(() =>
                 {
                     lblDistancia.Text = $"{distanciaMetros:F0} m";
                 });
 
-                // Calcular el Rumbo (Matemática esférica)
                 rumboAlDestino = CalcularRumbo(ubicacionActual, ubicacionDestino);
                 ActualizarRotacionFlecha();
             }
         }
         catch (Exception)
         {
-            // Evitar cuelgues si el GPS pierde señal
+            // Silenciado temporalmente si hay cortes de señal
         }
     }
 
     private void ActualizarRotacionFlecha()
     {
-        // La magia de la fusión de sensores: 
-        // Rumbo del destino MENOS hacia dónde miro = Ángulo de la flecha
         double rotacionFinal = rumboAlDestino - brujulaActual;
         FlechaRadar.Rotation = rotacionFinal;
     }

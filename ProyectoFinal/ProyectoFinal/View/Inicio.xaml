@@ -65,18 +65,37 @@
                         WidthRequest="250"
                         FontAttributes="Bold"
                         HorizontalOptions="Center"/>
-                <Button Text="Iniciar Ruta (Radar)" 
-        Clicked="OnRadarClicked"
-        Margin="0, 15, 0, 0"
-        BackgroundColor="Transparent"
-        TextColor="#38BDF8"
-        BorderColor="#38BDF8"
-        BorderWidth="2"
-        CornerRadius="25"
-        HeightRequest="60"
-        WidthRequest="250"
-        FontAttributes="Bold"
-        HorizontalOptions="Center"/>
+
+                <Label Text="¿A dónde quieres ir?" 
+                       FontSize="20" 
+                       FontAttributes="Bold" 
+                       TextColor="White"
+                       HorizontalOptions="Center" 
+                       Margin="0, 20, 0, 10"/>
+
+                <Button Text="Ir de compras al jumbo" 
+                        Clicked="OnCasaAbueloClicked"
+                        Margin="0, 5, 0, 0"
+                        BackgroundColor="#38BDF8"
+                        TextColor="#0F172A"
+                        CornerRadius="25"
+                        HeightRequest="60"
+                        WidthRequest="250"
+                        FontAttributes="Bold"
+                        HorizontalOptions="Center"/>
+
+                <Button Text="Ir a la Universidad" 
+                        Clicked="OnUniversidadClicked"
+                        Margin="0, 15, 0, 0"
+                        BackgroundColor="#1F2937"
+                        TextColor="White"
+                        BorderColor="#38BDF8"
+                        BorderWidth="2"
+                        CornerRadius="25"
+                        HeightRequest="60"
+                        WidthRequest="250"
+                        FontAttributes="Bold"
+                        HorizontalOptions="Center"/>
 
                 <Label Text="Versión 1.0 - Proyecto educativo" 
                        FontSize="12" 

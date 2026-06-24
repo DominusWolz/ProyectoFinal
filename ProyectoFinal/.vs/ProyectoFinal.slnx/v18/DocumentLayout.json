@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\view\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\view\\brujulapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\brujulapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\view\\brujulapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\brujulapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\radarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\radarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\radarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\radarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\source\\repos\\proyectofinal\\proyectofinal\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A22D46-4FE8-4ECA-A1A0-4D066974008C}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\inicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\brujulapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\brujulapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\alumno\\documents\\github\\proyectofinal\\proyectofinal\\proyectofinal\\view\\brujulapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755CCD0-8810-1FA7-038C-BEB3D7BF3A14}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\view\\brujulapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,52 +50,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RadarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\RadarPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\RadarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\RadarPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinal\\View\\RadarPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:44:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RadarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\RadarPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\RadarPage.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\RadarPage.xaml",
+              "RelativeToolTip": "ProyectoFinal\\View\\RadarPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-24T16:44:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "ProyectoFinal\\Platforms\\Android\\AndroidManifest.xml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-06-23T17:28:00.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\MauiProgram.cs",
-              "RelativeToolTip": "ProyectoFinal\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T17:27:01.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml.cs",
               "RelativeToolTip": "ProyectoFinal\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T16:16:54.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml",
               "RelativeDocumentMoniker": "ProyectoFinal\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\AppShell.xaml",
               "RelativeToolTip": "ProyectoFinal\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -96,54 +117,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BrujulaPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BrujulaPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml.cs",
-              "RelativeToolTip": "ProyectoFinal\\View\\BrujulaPage.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T16:16:25.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BrujulaPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml",
-              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BrujulaPage.xaml",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml",
-              "RelativeToolTip": "ProyectoFinal\\View\\BrujulaPage.xaml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\Inicio.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml",
+              "RelativeToolTip": "ProyectoFinal\\View\\Inicio.xaml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwGcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T16:16:09.086Z",
+              "WhenOpened": "2026-06-23T16:15:21.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Inicio.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\View\\Inicio.xaml.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml.cs",
               "RelativeToolTip": "ProyectoFinal\\View\\Inicio.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T16:15:32.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrujulaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BrujulaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinal\\View\\BrujulaPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T16:16:25.401Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inicio.xaml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml",
-              "RelativeDocumentMoniker": "ProyectoFinal\\View\\Inicio.xaml",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\ProyectoFinal\\ProyectoFinal\\View\\Inicio.xaml",
-              "RelativeToolTip": "ProyectoFinal\\View\\Inicio.xaml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\MauiProgram.cs",
+              "RelativeToolTip": "ProyectoFinal\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:27:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrujulaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\View\\BrujulaPage.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\View\\BrujulaPage.xaml",
+              "RelativeToolTip": "ProyectoFinal\\View\\BrujulaPage.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T16:15:21.019Z",
+              "WhenOpened": "2026-06-23T16:16:09.086Z",
               "EditorCaption": ""
             }
           ]

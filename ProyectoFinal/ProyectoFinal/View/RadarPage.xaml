@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.View.RadarPage"
+             Title="Radar de Ruta"
+             BackgroundColor="#0F172A">
+
+    <Grid>
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20">
+            
+            <Label Text="Distancia al destino" 
+                   FontSize="18" 
+                   TextColor="#94A3B8"
+                   HorizontalOptions="Center" />
+
+            <Label x:Name="lblDistancia" 
+                   Text="Calculando..." 
+                   FontSize="48" 
+                   FontAttributes="Bold" 
+                   TextColor="#38BDF8" 
+                   HorizontalOptions="Center"/>
+
+            <Grid WidthRequest="300" HeightRequest="300" HorizontalOptions="Center" Margin="0,30,0,0">
+                
+                <Ellipse Stroke="#1F2937" StrokeThickness="4" />
+                <Ellipse Stroke="#334155" StrokeThickness="1" WidthRequest="200" HeightRequest="200" />
+                <Ellipse Stroke="#334155" StrokeThickness="1" WidthRequest="100" HeightRequest="100" />
+
+                <Polygon x:Name="FlechaRadar" 
+                         Points="50,0 100,100 50,80 0,100" 
+                         Fill="#EF4444" 
+                         HeightRequest="150" 
+                         WidthRequest="100" 
+                         HorizontalOptions="Center" 
+                         VerticalOptions="Center" />
+            </Grid>
+
+            <Label Text="Sigue la flecha roja" 
+                   FontSize="16" 
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" 
+                   Margin="0,20,0,0"/>
+
+            <Button Text="Cancelar Ruta" 
+                    Clicked="OnVolverClicked"
+                    Margin="0, 30, 0, 0"
+                    BackgroundColor="Transparent"
+                    TextColor="#94A3B8"
+                    BorderColor="#94A3B8"
+                    BorderWidth="1"
+                    CornerRadius="20"
+                    HeightRequest="45"
+                    WidthRequest="200"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"/>
+
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

@@ -20,13 +20,13 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoFinal
-build_property.ProjectDir = C:\Users\Alumno\source\repos\ProyectoFinal\ProyectoFinal\
+build_property.ProjectDir = C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/App.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -36,7 +36,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/AppShell.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -46,7 +46,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/Resources/Styles/Colors.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -56,7 +56,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/Resources/Styles/Styles.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
@@ -66,7 +66,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/View/BrujulaPage.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/View/BrujulaPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.View.BrujulaPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\BrujulaPage.xaml
@@ -76,11 +76,21 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/Alumno/source/repos/ProyectoFinal/ProyectoFinal/View/Inicio.xaml]
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/View/Inicio.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.View.Inicio.xaml
 build_metadata.AdditionalFiles.TargetPath = View\Inicio.xaml
 build_metadata.AdditionalFiles.RelativePath = View\Inicio.xaml
+build_metadata.AdditionalFiles.Inflator = Runtime
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/Alumno/Documents/GitHub/ProyectoFinal/ProyectoFinal/ProyectoFinal/View/RadarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinal.View.RadarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\RadarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\RadarPage.xaml
 build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 

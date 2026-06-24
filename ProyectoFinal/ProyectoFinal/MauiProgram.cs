@@ -9,7 +9,7 @@ namespace ProyectoFinal
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
-                .UseMauiMaps() //Linea que permite el uso de los mapas 
+                // .UseMauiMaps() <-- Esta es la que borramos
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -17,7 +17,7 @@ namespace ProyectoFinal
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

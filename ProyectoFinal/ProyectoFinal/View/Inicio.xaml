@@ -10,7 +10,7 @@
             <VerticalStackLayout Spacing="30" Padding="30">
 
                 <VerticalStackLayout Spacing="10" HorizontalOptions="Center" Margin="0, 30, 0, 10">
-                    <Label Text="PROYECTO FINAL" 
+                    <Label Text="RutaSegura" 
                            FontSize="36" 
                            FontAttributes="Bold" 
                            TextColor="White"

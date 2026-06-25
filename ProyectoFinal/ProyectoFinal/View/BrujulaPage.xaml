@@ -9,7 +9,7 @@
 
         <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="35">
 
-            <Label Text="Apunta hacia el Norte" 
+            <Label Text="Brujula Magnetica" 
                    FontSize="22" 
                    FontAttributes="Bold"
                    TextColor="White"

@@ -19,7 +19,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>ProyectoFinal</ApplicationTitle>
+		<ApplicationTitle>RutaSegura</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.proyectofinal</ApplicationId>

@@ -266,7 +266,6 @@ C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\D
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
-C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-ios\iossimulator-x64\ProyectoFinal.csproj.AssemblyReference.cache
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-ios\iossimulator-x64\partialappmanifest\_PartialAppManifests.items
 C:\Users\Alumno\Documents\GitHub\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\net10.0-ios\iossimulator-x64\unpack\Microsoft.Maui.Essentials\BundleResource\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
